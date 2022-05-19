@@ -15,7 +15,7 @@ export default function Home() {
     echo "test";
     
     ?>
-        <Header title="Welcome to my app!" />
+        <Header title="azazaz !" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
